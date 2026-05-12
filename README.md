@@ -2,20 +2,20 @@
 
 Urban Mobility & Economic Productivity Analysis in LATAM
 
-📌 # Project Overview
+📌 **Project Overview**
 
 This project analyzes the relationship between urban mobility and economic productivity in major Latin American (LATAM) cities. Using traffic congestion and economic indicators datasets, the study explores whether mobility conditions such as congestion, travel delays, and traffic intensity are associated with economic performance indicators like GDP per capita, unemployment, and population.
 
 The main objective is to identify which cities may present stronger opportunities for future investment in transport infrastructure based on mobility efficiency and economic productivity.
 
-🎯 # Objectives
+🎯 **Objectives**
 Clean and prepare urban mobility and economic datasets.
 Analyze traffic congestion patterns across major LATAM cities.
 Explore the relationship between mobility indicators and economic productivity.
 Visualize trends and correlations between traffic and economic variables.
 Generate a clean and reproducible dataset for future analysis.
 
-📂 Datasets Used
+📂 **Datasets Used**
 1. TomTom Traffic Dataset
 
 Contains urban mobility and traffic congestion metrics, including:
@@ -36,8 +36,8 @@ Unemployment percentage
 Population
 PM2.5 air pollution levels
 Year
-🛠️ Technologies & Libraries
 
+🛠️ **Technologies & Libraries**
 The project was developed in Python using the following libraries:
 
 pandas
@@ -49,7 +49,7 @@ Environment:
 
 Jupyter Notebook
 
-🔄 Project Workflow
+🔄 **Project Workflow**
 
 1. Data Loading & Exploration
 Imported mobility and economic datasets.
@@ -78,7 +78,7 @@ Comparative city charts
 
 These visualizations helped identify trends between congestion levels and economic indicators.
 
-📊 Key Findings
+📊 **Key Findings**
 Mexico City presented the highest average traffic congestion among the analyzed cities.
 No strong linear relationship was observed between GDP per capita and traffic congestion.
 Some cities with high GDP per capita showed low congestion levels, while others presented severe mobility problems.
